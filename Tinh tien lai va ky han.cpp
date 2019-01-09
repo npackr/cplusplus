@@ -21,7 +21,7 @@ int main() {
 	
 	cout<<"Ky han gui de dat duoc "<<kyvong<<" trieu dong la:"<<endl;
 	cout<<TinhLaiDon(goc, kyvong, laisuat)<<" nam (neu bang hinh thuc lai don)."<<endl;
-	cout<<TinhLaiKep(goc, kyvong, laisuat)<<" nam (neh bang hinh thuc lai kep).";
+	cout<<TinhLaiKep(goc, kyvong, laisuat)<<" nam (neu bang hinh thuc lai kep).";
 	return 0;
 }
 
